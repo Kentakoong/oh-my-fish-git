@@ -1,0 +1,8 @@
+# Plugin name
+oh-my-fish-git
+
+# Description
+This is a clone of the zsh git aliases, so we could do the same commands that we used to do in zsh.
+
+# Functions
+functions/git.fish
